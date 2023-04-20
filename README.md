@@ -1,11 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
+<div style="display:flex" align="center">
+<h1 > <strong> Olá, sou o Vinícius Motta 👋 </strong></h1>
+</div>
 
-### Olá, sou o Vinícius Motta 👋
 <br>
 <br>
-
-![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Motta&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Motta&layout=compact)](https://github.com/Vinicius-Motta/github-readme-stats)
+<div style="display:flex" align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Motta&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Motta&layout=compact&langs_count=16&theme=merko" />
+</div>
 
 
 
