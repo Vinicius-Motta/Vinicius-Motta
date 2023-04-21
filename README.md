@@ -13,7 +13,7 @@
 
  
 <div style="display:inline" align="center">
-  <p> <strong>Ferramentas e tecnologias:</strong></p>
+  <p> <strong>Ferramentas e Tecnologias:</strong></p>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
