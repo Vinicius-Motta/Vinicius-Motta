@@ -33,6 +33,8 @@
           
   <br>
 
+  ![Snake animation](https://github.com/Vinicius-Motta/Vinicius-Motta/blob/output/github-contribution-grid-snake.svg)
+
           
           
 </div>
