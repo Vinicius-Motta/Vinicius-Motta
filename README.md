@@ -5,8 +5,8 @@
 <br>
 <br>
 <div style="display:inline" align="center">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Motta&show_icons=true&theme=merko" />
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Motta&layout=compact&theme=merko" />
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Motta&show_icons=true&theme=algolia" />
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Motta&layout=compact&theme=algolia" />
 </div>
 <br>
 <br>
@@ -30,10 +30,11 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
           
-          
+  <br>       
+  <br>
   <br>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Motta&bg_color=00008B&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Motta&bg_color=020533&color=00BFFF&line=00BFFF&point=00FA9A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
           
