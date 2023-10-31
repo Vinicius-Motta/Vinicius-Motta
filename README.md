@@ -25,6 +25,10 @@
   <p><strong>Estou Aprendendo:</strong></p>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+          
+          
   <br>
   
   ![Snake animation](https://github.com/Vinicius-Motta/Vinicius-Motta/blob/output/github-contribution-grid-snake.svg)
