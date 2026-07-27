@@ -5,10 +5,12 @@
 <br>
 <br>
 
-<div align="center">
-  <img width="49%" height="210px" src="https://github-stats-extended.vercel.app/api?username=Vinicius-Motta&show_icons=true&theme=algolia" />
-  <img width="49%" height="210px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vinicius-Motta&layout=compact&username=Vinicius-Motta&theme=algolia" />
+<div align="center" widht=100%>
+  <img width="45%" height="210px" src="https://github-stats-extended.vercel.app/api?username=Vinicius-Motta&show_icons=true&theme=algolia" />
+  <img width="45%" height="190px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vinicius-Motta&layout=compact&username=Vinicius-Motta&theme=algolia" />
 </div>
+<br>
+<br>
  
 <div style="display:inline" align="center">
   <p> <strong>Ferramentas e Tecnologias:</strong></p>
