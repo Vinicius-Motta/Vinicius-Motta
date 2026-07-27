@@ -5,6 +5,10 @@
 <br>
 <br>
 
+<div align="center">
+  <img width="49%" height="210px" src="https://github-stats-extended.vercel.app/api?username=Vinicius-Motta&show_icons=true&theme=algolia" />
+  <img width="49%" height="210px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vinicius-Motta&layout=compact&username=Vinicius-Motta&theme=algolia" />
+</div>
  
 <div style="display:inline" align="center">
   <p> <strong>Ferramentas e Tecnologias:</strong></p>
@@ -35,6 +39,7 @@
   <br>    
           
 </div>
+
 
   
 
